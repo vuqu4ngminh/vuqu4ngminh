@@ -25,11 +25,3 @@ I enjoy turning financial data into insights, building analytical systems, and c
 ## 📈 GitHub Stats
 
 ![Top Languages](https://ghstats.dev/api/langs?username=vuqu4ngminh&max_langs=9)
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=vuqu4ngminh&days=30&width=495&height=145)
-
-
-## 🛠️ Technologies & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,typescript,react,nodejs,postgresql,docker,git" />
-</p>
